@@ -1,7 +1,7 @@
 import random
 import numpy as np
 
-
+## hhhh
 def randomcreatematrix(row, col, lower, upper):  # 随机生成指定行数，列数的矩阵，数值范围在[lower，upper]范围内
     a = np.zeros(shape=(row, col))  # 先建立空矩阵
     for i in range(row):
